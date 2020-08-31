@@ -126,4 +126,4 @@ def p_error(t):
     print("Error sintáctico en '%s'" % t.value)
 
 parser = yacc.yacc()
-parser.parse("2*2-2/2*2/2")
+parser.parse("2*3+6-1/8")

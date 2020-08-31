@@ -1,8 +1,0 @@
-Implemente el ejercicio resuelto en clase en la herramienta indicada según la siguiente distribución: 
-
-    Carnet con terminación 1,3,5: PLY
-    Carnet con terminación 7,9: JISON
-
-El enunciado del ejercicio era: 
-
-Escriba un esquema de traducción dirigido por la sintaxis posfijo, para un analizador ascendente que reciba como entrada una expresión aritmética (*,+,-,/ y paréntesis) y genere para esta el código de tres direcciones equivalente.
