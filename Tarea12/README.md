@@ -5,6 +5,11 @@ _Entrada_
 ```
 2*3+6-1/8
 ```
+_Salida_
+T0=2*3;
+T1=T0+6;
+T2=1/8;
+T3=T1-T2;
 
 
 ## Herramienta utilizada 🔧
